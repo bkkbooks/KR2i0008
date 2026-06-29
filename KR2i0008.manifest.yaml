@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR2i0008/v1
+canonical_location: https://kanripo.org/bkk/KR2i0008/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 釣磯立談
+  date: '2015-08-24 22:37:22.647958'
+  source:
+    repository: kanripo
+    path: KR2i0008
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR2i0008_000.yaml, hash: 'sha256:b9f412fbcfaa96a1b5f97a48cb77490e1d8436f3e0eed019ffb3afddf6855e4c'}
+  - {seq: 1, filename: KR2i0008_001.yaml, hash: 'sha256:d57fe2b7c7c5af19a87c5fa81e6c084aaf81e245058742edef0a87e987e82c82'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2i0008_000.markers.yaml, hash: 'sha256:8618e504eb939142bd204bb3dc7eea4b41baa63fb1e2f939eb781d7ce3ea5740'}
+  - {seq: 1, role: markers, filename: assets/KR2i0008_001.markers.yaml, hash: 'sha256:32fd08df990d92509f5cda055b34c05526d20a3048c30d88c4066efed9a91bcc'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2i0008_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 498
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2i0008_WYG_000-4a
+    span:
+    - body
+    - 498
+    - 802
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2i0008_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 14754
+  label: 釣磯立談
+  type: section
+  level: 1
+hash: sha256:3e731e5641269a28b531fa401f1776c076acb42c602dad0f70246cc62885a72c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
