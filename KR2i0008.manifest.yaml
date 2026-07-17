@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR2i0008_000.yaml, hash: 'sha256:260fefce974831131599ebc56ce28954b7c0ce38eb3db1bb9bb0048b0137a7c5'}
   - {seq: 1, filename: KR2i0008_001.yaml, hash: 'sha256:72c65da1d4f222c1405add3e9fc34d0f1f54187bd50e1784b7843a0cc51d3933'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2i0008_000.markers.yaml, hash: 'sha256:d6e1830aad524d2d7fa99b5346aa0b7d37fc2133df832e2a6d7ade8aeb3498ac'}
-  - {seq: 1, role: markers, filename: assets/KR2i0008_001.markers.yaml, hash: 'sha256:c7ed3492880dd9207d5f73e5ad53c938448866765da5ff3c3df82653a7337715'}
+  - {seq: 0, role: markers, filename: assets/KR2i0008_000.markers.yaml, hash: 'sha256:7905641f2deb1421081e71d047121b528c4de1d0de8cc48e9ff04a023152ad7a'}
+  - {seq: 1, role: markers, filename: assets/KR2i0008_001.markers.yaml, hash: 'sha256:aa3abbf88ef71adfaac86ed53d2f6eb7b99ee73ed535ab9c2373eee5eef239c8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -56,7 +56,7 @@ table_of_contents:
   label: 釣磯立談
   type: section
   level: 1
-hash: sha256:5d017a7c20fe145c841ce70d05b4af6ec0b2758d3bacdd5c7ef627c903e23fc3
+hash: sha256:f830fac643caa17495a28923c87e8cc8358de12434996885d71c95f333dd12c5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
